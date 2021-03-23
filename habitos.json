@@ -1,0 +1,44 @@
+[
+	{
+		"id": "0",
+		"nome": "Correr",
+		"descricao": "Corrida"
+	},
+	{
+		"id": "1",
+		"nome": "Musculação",
+		"descricao": "Academia"
+	},
+	{
+		"id": "2",
+		"nome": "Caminhar",
+		"descricao": "Caminhada"
+	},
+	{
+		"id": "3",
+		"nome": "Caminhar",
+		"descricao": "Caminhada"
+	}
+	,
+	{
+		"id": "4",
+		"nome": "Caminhar",
+		"descricao": "Caminhada"
+	}
+	,
+	{
+		"id": "5",
+		"nome": "Caminhar",
+		"descricao": "Caminhada"
+	},
+	{
+		"id": "6",
+		"nome": "Caminhar",
+		"descricao": "Caminhada"
+	},
+	{
+		"id": "7",
+		"nome": "Caminhar",
+		"descricao": "Caminhada"
+	}
+]
